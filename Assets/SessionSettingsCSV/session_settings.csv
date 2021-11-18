@@ -1,0 +1,14 @@
+partID,999
+sessID,999
+eyeHgt,1.6129
+osc,4
+add,0,0,0
+amps,3.162,10,31.62
+freqs,0.2,0.2,0.2
+triDur,100
+restDur,60
+randOrd,0
+yoked,0
+msScale,0
+msResps,5
+debugVR,0
